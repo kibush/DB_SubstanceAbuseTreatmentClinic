@@ -1,4 +1,4 @@
-# DB_SubstanceAbuseTreatmentClinic
+# Substance AbuseTreatment Clinic DB design
  Project to design a database for small substance abuse clinic.
 Substance Abuse Treatment Center
 For our proposed  project  the  clinical IT system used was ideally for  a substance abuse treatment program which included  workflow related to patient intake, assessment, treatment planning, and progress tracking. The  tasks that were  included in these workflows were  as follows :
